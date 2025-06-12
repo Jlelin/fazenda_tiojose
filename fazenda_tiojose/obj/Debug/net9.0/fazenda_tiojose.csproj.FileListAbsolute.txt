@@ -1,0 +1,14 @@
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\bin\Debug\net9.0\fazenda_tiojose.exe
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\bin\Debug\net9.0\fazenda_tiojose.deps.json
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\bin\Debug\net9.0\fazenda_tiojose.runtimeconfig.json
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\bin\Debug\net9.0\fazenda_tiojose.dll
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\bin\Debug\net9.0\fazenda_tiojose.pdb
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\obj\Debug\net9.0\fazenda_tiojose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\obj\Debug\net9.0\fazenda_tiojose.AssemblyInfoInputs.cache
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\obj\Debug\net9.0\fazenda_tiojose.AssemblyInfo.cs
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\obj\Debug\net9.0\fazenda_tiojose.csproj.CoreCompileInputs.cache
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\obj\Debug\net9.0\fazenda_tiojose.dll
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\obj\Debug\net9.0\refint\fazenda_tiojose.dll
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\obj\Debug\net9.0\fazenda_tiojose.pdb
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\obj\Debug\net9.0\fazenda_tiojose.genruntimeconfig.cache
+C:\Users\XYZtalesnildo\OneDrive\Documentos\fazenda_tiojose\obj\Debug\net9.0\ref\fazenda_tiojose.dll

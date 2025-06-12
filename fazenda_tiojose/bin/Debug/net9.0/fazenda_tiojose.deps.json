@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "fazenda_tiojose/1.0.0": {
+        "runtime": {
+          "fazenda_tiojose.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fazenda_tiojose/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
